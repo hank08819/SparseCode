@@ -1,4 +1,4 @@
-# Sparsity Is What You Need: Multi-scale Sparse Attention for Cryptocurrency Price Discovery: Code and sample data
+# Sparsity Is What You Need: Multi-scale Sparse Attention for Multi-regime Time Series: Code and sample data
 
 
 ## Layout
