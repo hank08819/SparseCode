@@ -1,10 +1,5 @@
-# sparsity-code
+# Sparsity Is What You Need: Multi-scale Sparse Attention for Cryptocurrency Price Discovery: Code and sample data
 
-Code and sample data for
-
-> H. Han and D. Li, *Sparsity Is What You Need: Multi-scale Sparse Attention for Cryptocurrency Price Discovery*, submitted to Pattern Recognition, 2026.
-
-Figure-generation scripts are intentionally not included.
 
 ## Layout
 
